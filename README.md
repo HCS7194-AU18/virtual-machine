@@ -25,7 +25,9 @@
 10. Set file location to default and set the storage size to "20GB"
 ![](/Images/7.png)
 11. Download Linux OS from [here:](http://archive.ubuntu.com/ubuntu/dists/bionic/main/installer-amd64/current/images/netboot/mini.iso)
-12. Follow the videos to get the VM on your local system
+12. Before you continue, set the Optical drive higher in the boot order
+![](/Images/8.png)
+13. Follow the videos to get the VM on your local system
 
 - [Video 1](https://osu.box.com/shared/static/o0aiqm4di226tuu3m1s35qhi77anmil0.mov)
 - [Video 2](https://osu.box.com/shared/static/tpcpebk1h6m2mijvkj10spurn71gzad0.mov)
