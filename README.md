@@ -1,6 +1,6 @@
 # virtual-machine
 
-*Duration:* 15-30 minutes
+**Time:** 15-30 minutes
 
 ## Follow the instructions to get a VM onto your local system
 
