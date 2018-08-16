@@ -14,16 +14,16 @@
 
 5. Click the "continue" button to proceed to next screen
 6. At least give 2GB of Memory to your VM. Enter `2048MB`
-![](/Image/3.png)
+![](/Images/3.png)
 
 7. Select the "Create a virtual hard disk now" option
-![](/Image/4.png)
+![](/Images/4.png)
 8. Disk type as VDI
-![](/Image/5.png)
+![](/Images/5.png)
 9. Sotrage method as "Dynamically allocated"
-![](/Image/6.png)
+![](/Images/6.png)
 10. Set file location to default and set the storage size to "20GB"
-![](/Image/7.png)
+![](/Images/7.png)
 11. Download Linux OS from [here:](http://archive.ubuntu.com/ubuntu/dists/bionic/main/installer-amd64/current/images/netboot/mini.iso)
 12. Follow the videos to get the VM on your local system
 
