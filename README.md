@@ -5,7 +5,7 @@
 ## Follow the instructions to get a VM onto your local system
 
 1. Download the VirtualBox base on your platorm from [here](https://www.virtualbox.org/wiki/Downloads)
-2. Follow the on-screen instruction to install the software
+2. Follow the on-screen instructions to install the software
 3. Open up your Oracle VM app and click the "New" button to create a new virtual machine.
 
 ![](/Images/1.png)
